@@ -1,0 +1,33 @@
+# Data and databases
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+data_store/
+
+# Credentials
+.env
+.env.*
+*.key
+*.pem
+credentials*
+secrets*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated output
+*.xlsx
+*.xlsm
+output/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
