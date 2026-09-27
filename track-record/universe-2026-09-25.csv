@@ -1,0 +1,779 @@
+date,ticker,name,investment_score,tier,company_type,factor_coverage,low_coverage
+2026-09-25,MU,"Micron Technology, Inc.",81.5,Strong,compounder,1.0,0
+2026-09-25,FTNT,"Fortinet, Inc.",81.29,Strong,compounder,1.0,0
+2026-09-25,FIX,"Comfort Systems USA, Inc.",80.58,Strong,compounder,1.0,0
+2026-09-25,STX,Seagate Technology Holdings plc,80.36,Strong,compounder,0.98,0
+2026-09-25,ANET,"Arista Networks, Inc.",79.3,Strong,compounder,1.0,0
+2026-09-25,NVDA,NVIDIA Corporation,77.26,Strong,compounder,0.88,0
+2026-09-25,AYA.TO,Aya Gold & Silver Inc.,77.01,Strong,compounder,1.0,0
+2026-09-25,TSM,Taiwan Semiconductor Manufacturing Company Limited,76.52,Strong,compounder,1.0,0
+2026-09-25,MGTX,MeiraGTx Holdings plc,76.09,Strong,compounder,1.0,0
+2026-09-25,WDC,Western Digital Corporation,75.97,Strong,compounder,1.0,0
+2026-09-25,PLTR,Palantir Technologies Inc.,75.8,Strong,compounder,1.0,0
+2026-09-25,SCCO,Southern Copper Corporation,75.48,Strong,compounder,1.0,0
+2026-09-25,LRCX,Lam Research Corporation,75.4,Strong,compounder,1.0,0
+2026-09-25,NEM,Newmont Corporation,73.81,Strong,compounder,1.0,0
+2026-09-25,EXPE,"Expedia Group, Inc.",73.79,Strong,compounder,0.9804,0
+2026-09-25,DELL,Dell Technologies Inc.,73.61,Strong,compounder,0.86,0
+2026-09-25,VRT,Vertiv Holdings Co,73.6,Strong,compounder,1.0,0
+2026-09-25,TER,"Teradyne, Inc.",73.55,Strong,growth,1.0,0
+2026-09-25,LLY,Eli Lilly and Company,73.35,Strong,compounder,1.0,0
+2026-09-25,DAVE,Dave Inc.,73.29,Strong,compounder,1.0,0
+2026-09-25,NTAP,"NetApp, Inc.",73.23,Strong,cyclical,0.88,0
+2026-09-25,AMD,"Advanced Micro Devices, Inc.",71.82,Strong,growth,1.0,0
+2026-09-25,GOOGL,Alphabet Inc.,71.75,Strong,growth,1.0,0
+2026-09-25,CLS,Celestica Inc.,71.74,Strong,compounder,1.0,0
+2026-09-25,GLBE,Global-E Online Ltd.,71.18,Strong,growth,1.0,0
+2026-09-25,ALL,The Allstate Corporation,71.06,Strong,compounder,0.9706,0
+2026-09-25,ALAB,"Astera Labs, Inc.",70.65,Strong,growth,1.0,0
+2026-09-25,EXPD,"Expeditors International of Washington, Inc.",70.52,Strong,growth,1.0,0
+2026-09-25,GOOG,Alphabet Inc.,70.41,Strong,growth,1.0,0
+2026-09-25,ARM,Arm Holdings plc,70.19,Strong,growth,1.0,0
+2026-09-25,TWLO,Twilio Inc.,70.06,Strong,growth,1.0,0
+2026-09-25,QLYS,"Qualys, Inc.",69.99,Moderate,cyclical,1.0,0
+2026-09-25,RAMP,"LiveRamp Holdings, Inc.",69.65,Moderate,cyclical,1.0,0
+2026-09-25,STRL,"Sterling Infrastructure, Inc.",69.51,Moderate,compounder,1.0,0
+2026-09-25,TOELY,Tokyo Electron Limited,69.36,Moderate,cyclical,0.73,1
+2026-09-25,VRTX,Vertex Pharmaceuticals Incorporated,69.1,Moderate,cyclical,1.0,0
+2026-09-25,DXCM,"DexCom, Inc.",68.93,Moderate,cyclical,1.0,0
+2026-09-25,MSFT,Microsoft Corporation,68.63,Moderate,compounder,1.0,0
+2026-09-25,GEV,GE Vernova Inc.,68.5,Moderate,growth,1.0,0
+2026-09-25,AAPL,Apple Inc.,68.38,Moderate,cyclical,1.0,0
+2026-09-25,BMY,Bristol-Myers Squibb Company,68.29,Moderate,cyclical,1.0,0
+2026-09-25,EME,"EMCOR Group, Inc.",68.26,Moderate,compounder,1.0,0
+2026-09-25,CAH,"Cardinal Health, Inc.",68.12,Moderate,compounder,0.9802,0
+2026-09-25,ROST,"Ross Stores, Inc.",67.99,Moderate,cyclical,0.8529,0
+2026-09-25,IESC,"IES Holdings, Inc.",67.83,Moderate,compounder,1.0,0
+2026-09-25,TRV,"The Travelers Companies, Inc.",67.8,Moderate,cyclical,0.9706,0
+2026-09-25,TDC,Teradata Corporation,67.63,Moderate,cyclical,1.0,0
+2026-09-25,BE,Bloom Energy Corporation,67.58,Moderate,growth,1.0,0
+2026-09-25,NTRA,"Natera, Inc.",67.53,Moderate,growth,1.0,0
+2026-09-25,OKTA,"Okta, Inc.",67.4,Moderate,cyclical,0.88,0
+2026-09-25,MA,Mastercard Incorporated,67.11,Moderate,compounder,1.0,0
+2026-09-25,V,Visa Inc.,66.89,Moderate,compounder,1.0,0
+2026-09-25,MCO,Moody's Corporation,66.53,Moderate,compounder,1.0,0
+2026-09-25,MANH,"Manhattan Associates, Inc.",66.5,Moderate,compounder,1.0,0
+2026-09-25,PANW,"Palo Alto Networks, Inc.",66.48,Moderate,cyclical,0.88,0
+2026-09-25,BHP,BHP Group Limited,66.35,Moderate,cyclical,0.8218,0
+2026-09-25,KLAC,KLA Corporation,66.31,Moderate,value,1.0,0
+2026-09-25,CRWD,"CrowdStrike Holdings, Inc.",66.27,Moderate,turnaround,0.88,0
+2026-09-25,RELY,"Remitly Global, Inc.",66.23,Moderate,growth,1.0,0
+2026-09-25,ASML,ASML Holding N.V.,66.2,Moderate,compounder,1.0,0
+2026-09-25,CWAN,"Clearwater Analytics Holdings, Inc.",66.07,Moderate,cyclical,0.71,0
+2026-09-25,AMAT,"Applied Materials, Inc.",66.02,Moderate,cyclical,0.88,0
+2026-09-25,DDOG,"Datadog, Inc.",65.8,Moderate,growth,1.0,0
+2026-09-25,BKNG,Booking Holdings Inc.,65.67,Moderate,compounder,0.951,0
+2026-09-25,FFIV,"F5, Inc.",65.6,Moderate,cyclical,1.0,0
+2026-09-25,ILMN,"Illumina, Inc.",65.49,Moderate,cyclical,1.0,0
+2026-09-25,GILD,"Gilead Sciences, Inc.",65.22,Moderate,cyclical,0.9307,0
+2026-09-25,SEIC,SEI Investments Company,65.21,Moderate,compounder,1.0,0
+2026-09-25,GWW,"W.W. Grainger, Inc.",64.84,Moderate,cyclical,1.0,0
+2026-09-25,SIMO,Silicon Motion Technology Corporation,64.74,Moderate,growth,1.0,0
+2026-09-25,CF,"CF Industries Holdings, Inc.",64.66,Moderate,turnaround,1.0,0
+2026-09-25,CBOE,"Cboe Global Markets, Inc.",64.06,Moderate,growth,1.0,0
+2026-09-25,PRAX,"Praxis Precision Medicines, Inc.",64.05,Moderate,cyclical,0.8416,0
+2026-09-25,MPWR,"Monolithic Power Systems, Inc.",63.33,Moderate,growth,1.0,0
+2026-09-25,APPF,"AppFolio, Inc.",63.3,Moderate,compounder,1.0,0
+2026-09-25,VRSN,"VeriSign, Inc.",63.24,Moderate,cyclical,0.98,0
+2026-09-25,VIAV,Viavi Solutions Inc.,63.19,Moderate,growth,1.0,0
+2026-09-25,RDDT,"Reddit, Inc.",63.04,Moderate,compounder,1.0,0
+2026-09-25,TOST,"Toast, Inc.",63.01,Moderate,compounder,1.0,0
+2026-09-25,MDB,"MongoDB, Inc.",62.92,Moderate,turnaround,0.88,0
+2026-09-25,LOGI,Logitech International S.A.,62.88,Moderate,cyclical,1.0,0
+2026-09-25,LITE,Lumentum Holdings Inc.,62.84,Moderate,cyclical,0.93,0
+2026-09-25,AEIS,"Advanced Energy Industries, Inc.",62.83,Moderate,growth,1.0,0
+2026-09-25,VLO,Valero Energy Corporation,62.82,Moderate,growth,1.0,0
+2026-09-25,BK,Bank of New York Mellon Corp,62.62,Moderate,cyclical,0.8431,0
+2026-09-25,FAST,Fastenal Company,62.54,Moderate,cyclical,1.0,0
+2026-09-25,JNJ,Johnson & Johnson,62.42,Moderate,cyclical,1.0,0
+2026-09-25,QRVO,"Qorvo, Inc.",62.14,Moderate,cyclical,1.0,0
+2026-09-25,AFRM,"Affirm Holdings, Inc.",62.12,Moderate,growth,1.0,0
+2026-09-25,APP,AppLovin Corporation,62.07,Moderate,compounder,1.0,0
+2026-09-25,PGR,The Progressive Corporation,61.99,Moderate,compounder,0.9706,0
+2026-09-25,NU,Nu Holdings Ltd.,61.96,Moderate,compounder,0.9706,0
+2026-09-25,SMTC,Semtech Corporation,61.95,Moderate,cyclical,0.88,0
+2026-09-25,MO,"Altria Group, Inc.",61.94,Moderate,compounder,0.9802,0
+2026-09-25,PH,Parker-Hannifin Corporation,61.81,Moderate,cyclical,1.0,0
+2026-09-25,GE,GE Aerospace,61.62,Moderate,compounder,1.0,0
+2026-09-25,PAYC,"Paycom Software, Inc.",61.55,Moderate,cyclical,1.0,0
+2026-09-25,GRMN,Garmin Ltd.,61.46,Moderate,cyclical,1.0,0
+2026-09-25,CNTA,Centessa Pharmaceuticals plc,61.32,Moderate,cyclical,0.6733,1
+2026-09-25,ADI,"Analog Devices, Inc.",61.22,Moderate,cyclical,0.88,0
+2026-09-25,APA,APA Corporation,61.2,Moderate,cyclical,1.0,0
+2026-09-25,PRU,"Prudential Financial, Inc.",61.12,Moderate,cyclical,0.9706,0
+2026-09-25,TT,Trane Technologies plc,61.11,Moderate,compounder,1.0,0
+2026-09-25,VEEV,Veeva Systems Inc.,61.01,Moderate,cyclical,0.8812,0
+2026-09-25,ABNB,"Airbnb, Inc.",60.97,Moderate,cyclical,1.0,0
+2026-09-25,PCTY,Paylocity Holding Corporation,60.95,Moderate,cyclical,1.0,0
+2026-09-25,META,"Meta Platforms, Inc.",60.91,Moderate,cyclical,1.0,0
+2026-09-25,CS.PA,AXA SA,60.89,Moderate,cyclical,0.7059,1
+2026-09-25,CTAS,Cintas Corporation,60.84,Moderate,compounder,1.0,0
+2026-09-25,AMZN,"Amazon.com, Inc.",60.77,Moderate,cyclical,1.0,0
+2026-09-25,PWR,"Quanta Services, Inc.",60.77,Moderate,growth,1.0,0
+2026-09-25,HIG,"The Hartford Insurance Group, Inc.",60.77,Moderate,cyclical,0.9706,0
+2026-09-25,A,"Agilent Technologies, Inc.",60.59,Moderate,cyclical,0.8812,0
+2026-09-25,ALNY,"Alnylam Pharmaceuticals, Inc.",60.57,Moderate,compounder,1.0,0
+2026-09-25,ADBE,Adobe Inc.,60.56,Moderate,compounder,0.93,0
+2026-09-25,MMM,3M Company,60.49,Moderate,compounder,1.0,0
+2026-09-25,CNC,Centene Corporation,60.33,Moderate,turnaround,1.0,0
+2026-09-25,CLOV,"Clover Health Investments, Corp.",60.22,Moderate,growth,1.0,0
+2026-09-25,TXN,Texas Instruments Incorporated,60.18,Moderate,growth,1.0,0
+2026-09-25,MGNI,"Magnite, Inc.",60.09,Moderate,cyclical,1.0,0
+2026-09-25,IDXX,"IDEXX Laboratories, Inc.",60.04,Moderate,compounder,1.0,0
+2026-09-25,MTD,Mettler-Toledo International Inc.,60.02,Moderate,cyclical,0.9802,0
+2026-09-25,MTCH,"Match Group, Inc.",60.0,Moderate,cyclical,0.98,0
+2026-09-25,MNST,Monster Beverage Corporation,59.99,Moderate,compounder,1.0,0
+2026-09-25,WVR.JO,Weaver Fintech Ltd,59.98,Moderate,cyclical,0.7549,1
+2026-09-25,RVMD,"Revolution Medicines, Inc.",59.88,Moderate,cyclical,0.7723,0
+2026-09-25,IRDM,Iridium Communications Inc.,59.87,Moderate,cyclical,1.0,0
+2026-09-25,COST,Costco Wholesale Corporation,59.74,Moderate,cyclical,1.0,0
+2026-09-25,SHOP,Shopify Inc.,59.58,Moderate,growth,1.0,0
+2026-09-25,RBRK,RBRK,59.52,Moderate,cyclical,0.83,0
+2026-09-25,AME,"AMETEK, Inc.",59.46,Moderate,cyclical,1.0,0
+2026-09-25,FLYW,Flywire Corporation,59.46,Moderate,growth,1.0,0
+2026-09-25,CORT,Corcept Therapeutics Incorporated,59.3,Moderate,cyclical,1.0,0
+2026-09-25,ADSK,"Autodesk, Inc.",59.2,Moderate,cyclical,0.88,0
+2026-09-25,CL,Colgate-Palmolive Company,59.19,Moderate,compounder,0.9802,0
+2026-09-25,AA,Alcoa Corporation,59.19,Moderate,growth,1.0,0
+2026-09-25,SANM,Sanmina Corporation,58.95,Moderate,growth,1.0,0
+2026-09-25,MRVL,"Marvell Technology, Inc.",58.94,Moderate,cyclical,0.88,0
+2026-09-25,SITM,SiTime Corporation,58.76,Moderate,growth,1.0,0
+2026-09-25,ZIM,ZIM Integrated Shipping Services Ltd.,58.72,Moderate,cyclical,1.0,0
+2026-09-25,TTMI,"TTM Technologies, Inc.",58.62,Moderate,growth,1.0,0
+2026-09-25,BELFB,Bel Fuse Inc.,58.62,Moderate,cyclical,1.0,0
+2026-09-25,ZM,"Zoom Communications, Inc.",58.61,Moderate,cyclical,0.88,0
+2026-09-25,APH,Amphenol Corporation,58.59,Moderate,cyclical,1.0,0
+2026-09-25,KO,The Coca-Cola Company,58.58,Moderate,cyclical,1.0,0
+2026-09-25,SPOT,Spotify Technology S.A.,58.49,Moderate,compounder,1.0,0
+2026-09-25,SWK,"Stanley Black & Decker, Inc.",58.49,Moderate,cyclical,1.0,0
+2026-09-25,DOCU,"DocuSign, Inc.",58.4,Moderate,cyclical,0.88,0
+2026-09-25,FRSH,Freshworks Inc.,58.39,Moderate,turnaround,1.0,0
+2026-09-25,DOMO,DOMO,58.35,Moderate,cyclical,0.71,1
+2026-09-25,AMGN,Amgen Inc.,58.21,Moderate,turnaround,1.0,0
+2026-09-25,ADP,"Automatic Data Processing, Inc.",58.21,Moderate,cyclical,1.0,0
+2026-09-25,FIVN,"Five9, Inc.",58.19,Moderate,turnaround,1.0,0
+2026-09-25,MPC,Marathon Petroleum Corporation,58.15,Moderate,growth,1.0,0
+2026-09-25,SLAB,Silicon Laboratories Inc.,58.05,Moderate,cyclical,1.0,0
+2026-09-25,RGEN,Repligen Corporation,58.0,Moderate,cyclical,1.0,0
+2026-09-25,KEYS,"Keysight Technologies, Inc.",57.99,Moderate,cyclical,0.88,0
+2026-09-25,SONO,"Sonos, Inc.",57.97,Moderate,turnaround,1.0,0
+2026-09-25,MKSI,MKS Inc.,57.96,Moderate,growth,1.0,0
+2026-09-25,TGTX,"TG Therapeutics, Inc.",57.93,Moderate,cyclical,1.0,0
+2026-09-25,STT,State Street Corporation,57.86,Moderate,cyclical,0.9706,0
+2026-09-25,TROW,"T. Rowe Price Group, Inc.",57.82,Moderate,cyclical,1.0,0
+2026-09-25,ABBV,AbbVie Inc.,57.78,Moderate,turnaround,0.9802,0
+2026-09-25,HPE,Hewlett Packard Enterprise Company,57.66,Moderate,cyclical,0.88,0
+2026-09-25,JPM,JPMorgan Chase & Co.,57.64,Moderate,cyclical,0.9706,0
+2026-09-25,EXTR,"Extreme Networks, Inc.",57.6,Moderate,turnaround,1.0,0
+2026-09-25,AVGO,Broadcom Inc.,57.56,Moderate,cyclical,0.88,0
+2026-09-25,W,Wayfair Inc.,57.5,Moderate,cyclical,0.9118,0
+2026-09-25,CGNX,Cognex Corporation,57.5,Moderate,turnaround,1.0,0
+2026-09-25,LUNR,"Intuitive Machines, Inc.",57.44,Moderate,value,0.83,1
+2026-09-25,SDGR,"Schrödinger, Inc.",57.42,Moderate,turnaround,1.0,0
+2026-09-25,TEAM,Atlassian Corporation,57.36,Moderate,growth,1.0,0
+2026-09-25,PRAA,"PRA Group, Inc.",57.36,Moderate,growth,1.0,0
+2026-09-25,MSCI,MSCI Inc.,57.35,Moderate,cyclical,0.9216,0
+2026-09-25,CDNS,"Cadence Design Systems, Inc.",57.22,Moderate,growth,1.0,0
+2026-09-25,FROG,JFrog Ltd.,57.21,Moderate,growth,1.0,0
+2026-09-25,RBC,RBC Bearings Incorporated,57.2,Moderate,cyclical,1.0,0
+2026-09-25,CIEN,Ciena Corporation,57.11,Moderate,value,0.88,0
+2026-09-25,GHM,Graham Corporation,56.94,Moderate,cyclical,1.0,0
+2026-09-25,CRUS,"Cirrus Logic, Inc.",56.85,Moderate,cyclical,1.0,0
+2026-09-25,BOX,"Box, Inc.",56.78,Moderate,turnaround,0.88,0
+2026-09-25,ACMR,"ACM Research, Inc.",56.77,Moderate,growth,1.0,0
+2026-09-25,TRGP,Targa Resources Corp.,56.71,Moderate,cyclical,1.0,0
+2026-09-25,REGN,"Regeneron Pharmaceuticals, Inc.",56.63,Moderate,cyclical,1.0,0
+2026-09-25,HUM,Humana Inc.,56.59,Moderate,growth,0.9505,0
+2026-09-25,TFC,Truist Financial Corporation,56.54,Moderate,cyclical,0.9706,0
+2026-09-25,MS,Morgan Stanley,56.26,Moderate,growth,0.9706,0
+2026-09-25,YUM,"Yum! Brands, Inc.",56.26,Moderate,turnaround,0.9804,0
+2026-09-25,LC,LendingClub Corporation,56.25,Moderate,cyclical,0.8431,0
+2026-09-25,CAT,Caterpillar Inc.,56.23,Moderate,cyclical,0.93,0
+2026-09-25,CSCO,"Cisco Systems, Inc.",56.22,Moderate,cyclical,0.88,0
+2026-09-25,PAYX,"Paychex, Inc.",56.22,Moderate,cyclical,1.0,0
+2026-09-25,AMWL,American Well Corporation,56.14,Moderate,cyclical,1.0,0
+2026-09-25,VICR,Vicor Corporation,56.1,Moderate,cyclical,1.0,0
+2026-09-25,WELL,Welltower Inc.,56.08,Moderate,cyclical,1.0,0
+2026-09-25,LYV,"Live Nation Entertainment, Inc.",55.94,Moderate,cyclical,1.0,0
+2026-09-25,PSTG,Everpure Inc,55.94,Moderate,growth,0.79,0
+2026-09-25,RY,Royal Bank of Canada,55.78,Moderate,cyclical,0.7157,0
+2026-09-25,EA,Electronic Arts Inc.,55.77,Moderate,turnaround,0.87,0
+2026-09-25,U,Unity Software Inc.,55.75,Moderate,growth,1.0,0
+2026-09-25,GH,"Guardant Health, Inc.",55.67,Moderate,cyclical,0.9802,0
+2026-09-25,EQIX,"Equinix, Inc.",55.66,Moderate,cyclical,1.0,0
+2026-09-25,TJX,"The TJX Companies, Inc.",55.63,Moderate,cyclical,0.8529,0
+2026-09-25,EOG,"EOG Resources, Inc.",55.62,Moderate,turnaround,1.0,0
+2026-09-25,JBL,Jabil Inc.,55.62,Moderate,cyclical,1.0,0
+2026-09-25,FORM,"FormFactor, Inc.",55.62,Moderate,turnaround,1.0,0
+2026-09-25,ISRG,"Intuitive Surgical, Inc.",55.45,Moderate,cyclical,0.9505,0
+2026-09-25,TECK,Teck Resources Limited,55.39,Moderate,growth,1.0,0
+2026-09-25,FOXA,Fox Corporation,55.35,Moderate,cyclical,0.97,0
+2026-09-25,EBAY,eBay Inc.,55.34,Moderate,turnaround,1.0,0
+2026-09-25,DVN,Devon Energy Corporation,55.28,Moderate,growth,1.0,0
+2026-09-25,COP,ConocoPhillips,55.19,Moderate,growth,1.0,0
+2026-09-25,HEI,HEICO Corporation,55.13,Moderate,cyclical,0.88,0
+2026-09-25,MRNA,"Moderna, Inc.",55.11,Moderate,cyclical,1.0,0
+2026-09-25,BMO,Bank of Montreal,55.1,Moderate,cyclical,0.902,0
+2026-09-25,GTLB,GitLab Inc.,55.08,Moderate,cyclical,0.88,0
+2026-09-25,PM,Philip Morris International Inc.,55.05,Moderate,cyclical,0.9802,0
+2026-09-25,NET,"Cloudflare, Inc.",54.78,Weak,cyclical,0.93,0
+2026-09-25,DRI,"Darden Restaurants, Inc.",54.77,Weak,cyclical,1.0,0
+2026-09-25,JCI,Johnson Controls International plc,54.76,Weak,cyclical,1.0,0
+2026-09-25,CPAY,"Corpay, Inc.",54.76,Weak,cyclical,1.0,0
+2026-09-25,NFLX,"Netflix, Inc.",54.75,Weak,compounder,1.0,0
+2026-09-25,BKR,Baker Hughes Company,54.73,Weak,cyclical,1.0,0
+2026-09-25,SBAC,SBA Communications Corporation,54.67,Weak,cyclical,0.9808,0
+2026-09-25,CVX,Chevron Corporation,54.66,Weak,growth,1.0,0
+2026-09-25,PSX,Phillips 66,54.62,Weak,growth,1.0,0
+2026-09-25,KEY,KeyCorp,54.57,Weak,cyclical,0.9706,0
+2026-09-25,USB,U.S. Bancorp,54.36,Weak,cyclical,0.9706,0
+2026-09-25,C,Citigroup Inc.,54.32,Weak,cyclical,0.9706,0
+2026-09-25,RMBS,Rambus Inc.,54.3,Weak,value,1.0,0
+2026-09-25,FSLY,"Fastly, Inc.",54.06,Weak,growth,1.0,0
+2026-09-25,CRVS,"Corvus Pharmaceuticals, Inc.",54.05,Weak,value,0.8416,0
+2026-09-25,PAYO,Payoneer Global Inc.,54.02,Weak,cyclical,0.93,0
+2026-09-25,CAMP,CAMP,54.01,Weak,value,0.92,0
+2026-09-25,CVNA,Carvana Co.,53.92,Weak,growth,1.0,0
+2026-09-25,MCHP,Microchip Technology Incorporated,53.9,Weak,growth,1.0,0
+2026-09-25,ESTC,Elastic N.V.,53.82,Weak,turnaround,0.88,0
+2026-09-25,CRM,"Salesforce, Inc.",53.74,Weak,cyclical,0.88,0
+2026-09-25,JBHT,"J.B. Hunt Transport Services, Inc.",53.73,Weak,cyclical,1.0,0
+2026-09-25,CB,Chubb Limited,53.71,Weak,cyclical,0.9706,0
+2026-09-25,ONTO,Onto Innovation Inc.,53.67,Weak,growth,1.0,0
+2026-09-25,ZBRA,Zebra Technologies Corporation,53.67,Weak,growth,1.0,0
+2026-09-25,LSCC,Lattice Semiconductor Corporation,53.58,Weak,growth,1.0,0
+2026-09-25,KDP,Keurig Dr Pepper Inc.,53.44,Weak,cyclical,1.0,0
+2026-09-25,DLR,"Digital Realty Trust, Inc.",53.41,Weak,turnaround,1.0,0
+2026-09-25,PUBM,"PubMatic, Inc.",53.41,Weak,cyclical,1.0,0
+2026-09-25,NUE,Nucor Corporation,53.39,Weak,growth,1.0,0
+2026-09-25,MRK,"Merck & Co., Inc.",53.36,Weak,cyclical,0.9307,0
+2026-09-25,FCX,Freeport-McMoRan Inc.,53.36,Weak,cyclical,1.0,0
+2026-09-25,FANG,"Diamondback Energy, Inc.",53.36,Weak,growth,1.0,0
+2026-09-25,FIVE,"Five Below, Inc.",53.36,Weak,cyclical,0.8529,0
+2026-09-25,XOM,ExxonMobil Holdings Corporation,53.34,Weak,growth,1.0,0
+2026-09-25,HOOD,"Robinhood Markets, Inc.",53.31,Weak,growth,1.0,0
+2026-09-25,OUST,"Ouster, Inc.",53.25,Weak,growth,1.0,0
+2026-09-25,HPQ,HP Inc.,53.23,Weak,cyclical,0.86,0
+2026-09-25,KYMR,"Kymera Therapeutics, Inc.",53.21,Weak,growth,0.9505,0
+2026-09-25,COHR,Coherent Corp.,53.11,Weak,growth,1.0,0
+2026-09-25,SMCI,"Super Micro Computer, Inc.",53.08,Weak,growth,1.0,0
+2026-09-25,RIO,Rio Tinto Group,52.89,Weak,cyclical,0.8218,0
+2026-09-25,MTSI,"MACOM Technology Solutions Holdings, Inc.",52.89,Weak,growth,1.0,0
+2026-09-25,DNLI,Denali Therapeutics Inc.,52.87,Weak,cyclical,0.8911,0
+2026-09-25,WBD,"Warner Bros. Discovery, Inc.",52.8,Weak,cyclical,1.0,0
+2026-09-25,GS,"The Goldman Sachs Group, Inc.",52.74,Weak,cyclical,0.9706,0
+2026-09-25,DOCN,"DigitalOcean Holdings, Inc.",52.66,Weak,cyclical,1.0,0
+2026-09-25,UMC,United Microelectronics Corporation,52.63,Weak,turnaround,1.0,0
+2026-09-25,UBER,"Uber Technologies, Inc.",52.61,Weak,cyclical,1.0,0
+2026-09-25,MAR,"Marriott International, Inc.",52.45,Weak,cyclical,0.9804,0
+2026-09-25,NGG,National Grid plc,52.42,Weak,cyclical,0.7981,0
+2026-09-25,MOD,Modine Manufacturing Company,52.37,Weak,growth,1.0,0
+2026-09-25,TMO,Thermo Fisher Scientific Inc.,52.3,Weak,cyclical,1.0,0
+2026-09-25,OXY,Occidental Petroleum Corporation,52.27,Weak,growth,1.0,0
+2026-09-25,4323.SR,Sumou Real Estate Company,52.27,Weak,value,1.0,0
+2026-09-25,SAIC,Science Applications International Corporation,52.26,Weak,cyclical,0.88,0
+2026-09-25,RHHBY,Roche Holding AG,52.23,Weak,cyclical,0.7525,1
+2026-09-25,TTE,TotalEnergies SE,52.22,Weak,growth,1.0,0
+2026-09-25,ROK,"Rockwell Automation, Inc.",52.21,Weak,cyclical,1.0,0
+2026-09-25,DLTR,"Dollar Tree, Inc.",52.21,Weak,cyclical,0.9208,0
+2026-09-25,OMCL,"Omnicell, Inc.",52.18,Weak,value,1.0,0
+2026-09-25,PNC,"The PNC Financial Services Group, Inc.",52.17,Weak,cyclical,0.9706,0
+2026-09-25,FOX,Fox Corporation,52.14,Weak,cyclical,0.97,0
+2026-09-25,INVA,"Innoviva, Inc.",52.0,Weak,cyclical,0.9307,0
+2026-09-25,NDSN,Nordson Corporation,51.97,Weak,cyclical,0.88,0
+2026-09-25,SPG,"Simon Property Group, Inc.",51.91,Weak,cyclical,0.9808,0
+2026-09-25,WAT,Waters Corporation,51.9,Weak,cyclical,0.9307,0
+2026-09-25,NXE,NexGen Energy Ltd.,51.88,Weak,turnaround,0.8235,0
+2026-09-25,PLXS,Plexus Corp.,51.77,Weak,cyclical,1.0,0
+2026-09-25,APPN,Appian Corporation,51.76,Weak,cyclical,0.91,0
+2026-09-25,IMTX,Immatics N.V.,51.72,Weak,cyclical,0.8911,0
+2026-09-25,RTX,RTX Corporation,51.68,Weak,cyclical,1.0,0
+2026-09-25,RMD,ResMed Inc.,51.67,Weak,cyclical,1.0,0
+2026-09-25,IOT,Samsara Inc.,51.66,Weak,cyclical,0.88,0
+2026-09-25,IFF,International Flavors & Fragrances Inc.,51.63,Weak,cyclical,1.0,0
+2026-09-25,SJM,The J. M. Smucker Company,51.59,Weak,cyclical,0.9208,0
+2026-09-25,CHD,"Church & Dwight Co., Inc.",51.55,Weak,cyclical,1.0,0
+2026-09-25,LMT,Lockheed Martin Corporation,51.54,Weak,turnaround,1.0,0
+2026-09-25,ITW,Illinois Tool Works Inc.,51.53,Weak,cyclical,1.0,0
+2026-09-25,MTB,M&T Bank Corporation,51.53,Weak,cyclical,0.9706,0
+2026-09-25,ETN,Eaton Corporation plc,51.51,Weak,cyclical,1.0,0
+2026-09-25,UCTT,"Ultra Clean Holdings, Inc.",51.43,Weak,growth,1.0,0
+2026-09-25,DSGX,The Descartes Systems Group Inc.,51.4,Weak,cyclical,0.95,0
+2026-09-25,FLEX,Flex Ltd.,51.39,Weak,turnaround,1.0,0
+2026-09-25,SNA,Snap-on Incorporated,51.37,Weak,cyclical,1.0,0
+2026-09-25,INVH,Invitation Homes Inc.,51.31,Weak,turnaround,1.0,0
+2026-09-25,STLD,"Steel Dynamics, Inc.",51.29,Weak,growth,1.0,0
+2026-09-25,SHW,The Sherwin-Williams Company,51.17,Weak,cyclical,1.0,0
+2026-09-25,AMT,American Tower Corporation,51.17,Weak,cyclical,1.0,0
+2026-09-25,ODFL,"Old Dominion Freight Line, Inc.",51.11,Weak,cyclical,1.0,0
+2026-09-25,PEGA,Pegasystems Inc.,51.09,Weak,compounder,1.0,0
+2026-09-25,AES,The AES Corporation,51.08,Weak,turnaround,1.0,0
+2026-09-25,PYPL,"PayPal Holdings, Inc.",51.07,Weak,cyclical,1.0,0
+2026-09-25,ICHR,"Ichor Holdings, Ltd.",51.07,Weak,growth,1.0,0
+2026-09-25,FDS,FactSet Research Systems Inc.,51.06,Weak,cyclical,1.0,0
+2026-09-25,RDWR,Radware Ltd.,51.05,Weak,cyclical,1.0,0
+2026-09-25,ASX,"ASE Technology Holding Co., Ltd.",51.04,Weak,growth,1.0,0
+2026-09-25,GVA,Granite Construction Incorporated,50.97,Weak,cyclical,0.93,0
+2026-09-25,S,"SentinelOne, Inc.",50.92,Weak,cyclical,0.88,0
+2026-09-25,HCC,"Warrior Met Coal, Inc.",50.92,Weak,growth,1.0,0
+2026-09-25,AXP,American Express Company,50.84,Weak,cyclical,0.9706,0
+2026-09-25,ENTG,"Entegris, Inc.",50.84,Weak,cyclical,1.0,0
+2026-09-25,EXPO,"Exponent, Inc.",50.8,Weak,cyclical,0.97,0
+2026-09-25,FITB,Fifth Third Bancorp,50.75,Weak,cyclical,0.9706,0
+2026-09-25,RCUS,"Arcus Biosciences, Inc.",50.67,Weak,cyclical,0.8218,0
+2026-09-25,NVAX,"Novavax, Inc.",50.59,Weak,cyclical,0.9109,0
+2026-09-25,KIM,Kimco Realty Corporation,50.55,Weak,cyclical,1.0,0
+2026-09-25,CME,CME Group Inc.,50.53,Weak,cyclical,1.0,0
+2026-09-25,NOVT,Novanta Inc.,50.53,Weak,turnaround,1.0,0
+2026-09-25,UBS,UBS Group AG,50.47,Weak,cyclical,0.9706,0
+2026-09-25,BLK,"BlackRock, Inc.",50.47,Weak,cyclical,1.0,0
+2026-09-25,EW,Edwards Lifesciences Corporation,50.47,Weak,cyclical,1.0,0
+2026-09-25,SHEL,Shell plc,50.43,Weak,growth,1.0,0
+2026-09-25,GD,General Dynamics Corporation,50.39,Weak,cyclical,1.0,0
+2026-09-25,XYZ,"Block, Inc.",50.38,Weak,cyclical,1.0,0
+2026-09-25,AR,Antero Resources Corporation,50.38,Weak,turnaround,1.0,0
+2026-09-25,UNP,Union Pacific Corporation,50.34,Weak,cyclical,1.0,0
+2026-09-25,IQV,IQVIA Holdings Inc.,50.34,Weak,cyclical,1.0,0
+2026-09-25,CACI,CACI International Inc,50.27,Weak,cyclical,1.0,0
+2026-09-25,ETSY,"Etsy, Inc.",50.25,Weak,cyclical,0.9118,0
+2026-09-25,BAND,Bandwidth Inc.,50.25,Weak,growth,1.0,0
+2026-09-25,TPR,"Tapestry, Inc.",50.24,Weak,turnaround,1.0,0
+2026-09-25,NEPH,NEPH,50.16,Weak,growth,1.0,0
+2026-09-25,CYBR.JK,PT ITSEC Asia Tbk,50.15,Weak,compounder,0.93,0
+2026-09-25,FDX,FedEx Corporation,50.05,Weak,cyclical,1.0,0
+2026-09-25,WFC,Wells Fargo & Company,49.96,Weak,cyclical,0.9706,0
+2026-09-25,AYI,Acuity Inc.,49.96,Weak,cyclical,1.0,0
+2026-09-25,MELI,"MercadoLibre, Inc.",49.93,Weak,cyclical,1.0,0
+2026-09-25,ALRM,"Alarm.com Holdings, Inc.",49.92,Weak,cyclical,1.0,0
+2026-09-25,BP,BP p.l.c.,49.9,Weak,growth,1.0,0
+2026-09-25,IMVT,"Immunovant, Inc.",49.88,Weak,cyclical,0.8416,0
+2026-09-25,MCK,McKesson Corporation,49.83,Weak,cyclical,0.9802,0
+2026-09-25,SIRI,Sirius XM Holdings Inc.,49.81,Weak,cyclical,1.0,0
+2026-09-25,MMCO.VI,"Marsh & McLennan Companies, Inc.",49.79,Weak,cyclical,0.9118,0
+2026-09-25,RS,"Reliance, Inc.",49.77,Weak,growth,1.0,0
+2026-09-25,TDG,TransDigm Group Incorporated,49.73,Weak,cyclical,0.98,0
+2026-09-25,UDR,"UDR, Inc.",49.73,Weak,turnaround,1.0,0
+2026-09-25,UNIT,Uniti Group Inc.,49.68,Weak,cyclical,0.9519,0
+2026-09-25,HCLTECH.NS,HCL Technologies Limited,49.65,Weak,cyclical,0.93,0
+2026-09-25,SE,Sea Limited,49.65,Weak,value,0.9314,0
+2026-09-25,NVCR,NovoCure Limited,49.62,Weak,cyclical,1.0,0
+2026-09-25,VTRS,Viatris Inc.,49.56,Weak,cyclical,0.9307,0
+2026-09-25,BBY,"Best Buy Co., Inc.",49.45,Weak,cyclical,0.8529,0
+2026-09-25,ORLY,"O'Reilly Automotive, Inc.",49.33,Weak,cyclical,0.9804,0
+2026-09-25,SYNA,Synaptics Incorporated,49.32,Weak,cyclical,0.93,0
+2026-09-25,PD,"PagerDuty, Inc.",49.32,Weak,turnaround,0.88,0
+2026-09-25,GPN,Global Payments Inc.,49.26,Weak,cyclical,1.0,0
+2026-09-25,HLT,Hilton Worldwide Holdings Inc.,49.23,Weak,cyclical,0.9804,0
+2026-09-25,INTC,Intel Corporation,49.16,Weak,cyclical,0.93,0
+2026-09-25,NOVN.SW,Novartis AG,49.1,Weak,cyclical,1.0,0
+2026-09-25,BCS,Barclays PLC,49.09,Weak,cyclical,0.9216,0
+2026-09-25,SAIL,"SailPoint, Inc.",49.05,Weak,cyclical,0.88,0
+2026-09-25,AMPL,"Amplitude, Inc.",49.04,Weak,cyclical,1.0,0
+2026-09-25,ICE,"Intercontinental Exchange, Inc.",49.03,Weak,cyclical,1.0,0
+2026-09-25,CMG,"Chipotle Mexican Grill, Inc.",48.96,Weak,cyclical,1.0,0
+2026-09-25,LYG,Lloyds Banking Group plc,48.95,Weak,cyclical,0.8529,0
+2026-09-25,CEVA,"CEVA, Inc.",48.95,Weak,cyclical,1.0,0
+2026-09-25,DGX,Quest Diagnostics Incorporated,48.91,Weak,cyclical,1.0,0
+2026-09-25,SLB,SLB N.V.,48.86,Weak,cyclical,1.0,0
+2026-09-25,CPRT,"Copart, Inc.",48.8,Weak,value,0.93,0
+2026-09-25,DASH,"DoorDash, Inc.",48.77,Weak,cyclical,1.0,0
+2026-09-25,BAC,Bank of America Corporation,48.75,Weak,cyclical,0.9706,0
+2026-09-25,CFG,"Citizens Financial Group, Inc.",48.73,Weak,cyclical,0.9706,0
+2026-09-25,EMR,Emerson Electric Co.,48.66,Weak,cyclical,1.0,0
+2026-09-25,CHRW,"C.H. Robinson Worldwide, Inc.",48.57,Weak,cyclical,1.0,0
+2026-09-25,AZN,AstraZeneca PLC,48.53,Weak,cyclical,1.0,0
+2026-09-25,COHU,"Cohu, Inc.",48.51,Weak,growth,1.0,0
+2026-09-25,AMH,American Homes 4 Rent,48.47,Weak,cyclical,1.0,0
+2026-09-25,AFL,Aflac Incorporated,48.44,Weak,cyclical,0.9706,0
+2026-09-25,AZO,"AutoZone, Inc.",48.43,Weak,cyclical,0.9804,0
+2026-09-25,TGT,Target Corporation,48.23,Weak,cyclical,0.9208,0
+2026-09-25,ALB,Albemarle Corporation,48.21,Weak,growth,1.0,0
+2026-09-25,IEX,IDEX Corporation,48.14,Weak,cyclical,1.0,0
+2026-09-25,SPSC,"SPS Commerce, Inc.",48.1,Weak,cyclical,1.0,0
+2026-09-25,TREX,"Trex Company, Inc.",48.09,Weak,cyclical,1.0,0
+2026-09-25,SGSOY,SGS SA,48.06,Weak,cyclical,0.78,0
+2026-09-25,HMC,"Honda Motor Co., Ltd.",47.99,Weak,turnaround,1.0,0
+2026-09-25,AMBA,"Ambarella, Inc.",47.98,Weak,cyclical,0.88,0
+2026-09-25,TXRH,"Texas Roadhouse, Inc.",47.97,Weak,cyclical,1.0,0
+2026-09-25,WEAV,"Weave Communications, Inc.",47.96,Weak,cyclical,1.0,0
+2026-09-25,WATT,Energous Corporation,47.93,Weak,growth,1.0,0
+2026-09-25,QCOM,QUALCOMM Incorporated,47.91,Weak,cyclical,1.0,0
+2026-09-25,HXL,Hexcel Corporation,47.9,Weak,cyclical,1.0,0
+2026-09-25,SNOW,Snowflake Inc.,47.88,Weak,cyclical,0.88,0
+2026-09-25,PTC,PTC Inc.,47.85,Weak,cyclical,1.0,0
+2026-09-25,ECL,Ecolab Inc.,47.74,Weak,cyclical,1.0,0
+2026-09-25,SYF,Synchrony Financial,47.73,Weak,cyclical,0.9706,0
+2026-09-25,ING,ING Groep N.V.,47.71,Weak,cyclical,0.8529,0
+2026-09-25,XPO,"XPO, Inc.",47.7,Weak,cyclical,1.0,0
+2026-09-25,VMC,Vulcan Materials Company,47.64,Weak,cyclical,1.0,0
+2026-09-25,TDY,Teledyne Technologies Incorporated,47.61,Weak,cyclical,1.0,0
+2026-09-25,DV,"DoubleVerify Holdings, Inc.",47.57,Weak,turnaround,1.0,0
+2026-09-25,CSX,CSX Corporation,47.55,Weak,cyclical,1.0,0
+2026-09-25,MTZ,"MasTec, Inc.",47.53,Weak,growth,1.0,0
+2026-09-25,BIIB,Biogen Inc.,47.53,Weak,cyclical,1.0,0
+2026-09-25,LPLA,LPL Financial Holdings Inc.,47.47,Weak,growth,1.0,0
+2026-09-25,ALGM,"Allegro MicroSystems, Inc.",47.47,Weak,growth,1.0,0
+2026-09-25,WMT,Walmart Inc.,47.45,Weak,cyclical,0.9208,0
+2026-09-25,HUBB,Hubbell Incorporated,47.43,Weak,cyclical,1.0,0
+2026-09-25,WULF,TeraWulf Inc.,47.43,Weak,value,0.8824,0
+2026-09-25,HSIC,"Henry Schein, Inc.",47.38,Weak,cyclical,1.0,0
+2026-09-25,CCI,Crown Castle Inc.,47.34,Weak,cyclical,0.9808,0
+2026-09-25,VLTO,Veralto Corporation,47.31,Weak,cyclical,1.0,0
+2026-09-25,OTIS,Otis Worldwide Corporation,47.27,Weak,cyclical,0.98,0
+2026-09-25,ALGN,"Align Technology, Inc.",47.27,Weak,cyclical,1.0,0
+2026-09-25,TENB,"Tenable Holdings, Inc.",47.22,Weak,turnaround,1.0,0
+2026-09-25,TEL,TE Connectivity plc,47.17,Weak,cyclical,1.0,0
+2026-09-25,EXE,Expand Energy Corporation,47.11,Weak,cyclical,1.0,0
+2026-09-25,LH,Labcorp Holdings Inc.,47.1,Weak,cyclical,1.0,0
+2026-09-25,NWSA,News Corporation,47.03,Weak,cyclical,0.97,0
+2026-09-25,NXPI,NXP Semiconductors N.V.,47.0,Weak,turnaround,1.0,0
+2026-09-25,COF,Capital One Financial Corporation,46.98,Weak,growth,0.9706,0
+2026-09-25,ATLKY,Atlas Copco AB (publ),46.91,Weak,cyclical,1.0,0
+2026-09-25,ACN,Accenture plc,46.91,Weak,cyclical,1.0,0
+2026-09-25,RNST,Renasant Corporation,46.9,Weak,turnaround,0.9706,0
+2026-09-25,HON,Honeywell International Inc.,46.87,Weak,cyclical,1.0,0
+2026-09-25,SAP,SAP SE,46.83,Weak,cyclical,1.0,0
+2026-09-25,DE,Deere & Company,46.76,Weak,cyclical,0.88,0
+2026-09-25,PINS,"Pinterest, Inc.",46.76,Weak,value,0.93,0
+2026-09-25,D,"Dominion Energy, Inc.",46.74,Weak,cyclical,1.0,0
+2026-09-25,COR,"Cencora, Inc.",46.66,Weak,cyclical,0.9802,0
+2026-09-25,AKAM,"Akamai Technologies, Inc.",46.64,Weak,cyclical,1.0,0
+2026-09-25,MET,"MetLife, Inc.",46.61,Weak,cyclical,0.9706,0
+2026-09-25,AAOI,"Applied Optoelectronics, Inc.",46.6,Weak,value,1.0,0
+2026-09-25,ON,ON Semiconductor Corporation,46.58,Weak,cyclical,1.0,0
+2026-09-25,SPGI,S&P Global Inc.,46.57,Weak,cyclical,1.0,0
+2026-09-25,BAX,Baxter International Inc.,46.53,Weak,cyclical,1.0,0
+2026-09-25,WDAY,"Workday, Inc.",46.44,Weak,cyclical,0.88,0
+2026-09-25,SNPS,"Synopsys, Inc.",46.42,Weak,cyclical,0.88,0
+2026-09-25,INTU,Intuit Inc.,46.4,Weak,value,0.88,0
+2026-09-25,ERIC,Telefonaktiebolaget LM Ericsson (publ),46.38,Weak,cyclical,1.0,0
+2026-09-25,PPG,"PPG Industries, Inc.",46.35,Weak,cyclical,1.0,0
+2026-09-25,GFS,GLOBALFOUNDRIES Inc.,46.34,Weak,value,1.0,0
+2026-09-25,OKE,"ONEOK, Inc.",46.22,Weak,cyclical,1.0,0
+2026-09-25,ETR,Entergy Corporation,46.2,Weak,cyclical,1.0,0
+2026-09-25,BWA,BorgWarner Inc.,46.17,Weak,cyclical,1.0,0
+2026-09-25,DOCS,"Doximity, Inc.",46.17,Weak,value,1.0,0
+2026-09-25,DHR,Danaher Corporation,46.11,Weak,turnaround,1.0,0
+2026-09-25,PCOR,"Procore Technologies, Inc.",46.11,Weak,turnaround,1.0,0
+2026-09-25,EL,The Estée Lauder Companies Inc.,46.09,Weak,cyclical,1.0,0
+2026-09-25,APD,"Air Products and Chemicals, Inc.",46.08,Weak,cyclical,0.9703,0
+2026-09-25,BILL,"BILL Holdings, Inc.",46.06,Weak,cyclical,0.93,0
+2026-09-25,ELV,"Elevance Health, Inc.",45.99,Weak,cyclical,0.9505,0
+2026-09-25,VST,Vistra Corp.,45.89,Weak,cyclical,1.0,0
+2026-09-25,HBAN,Huntington Bancshares Incorporated,45.78,Weak,cyclical,0.9706,0
+2026-09-25,WMB,"The Williams Companies, Inc.",45.77,Weak,turnaround,1.0,0
+2026-09-25,CCJ,Cameco Corporation,45.69,Weak,cyclical,1.0,0
+2026-09-25,HSY,The Hershey Company,45.69,Weak,cyclical,1.0,0
+2026-09-25,DRS,"Leonardo DRS, Inc.",45.64,Weak,cyclical,1.0,0
+2026-09-25,RCL,Royal Caribbean Cruises Ltd.,45.6,Weak,cyclical,1.0,0
+2026-09-25,NICE,NICE Ltd.,45.57,Weak,cyclical,1.0,0
+2026-09-25,DIOD,Diodes Incorporated,45.51,Weak,cyclical,1.0,0
+2026-09-25,NVS,Novartis AG,45.48,Weak,cyclical,1.0,0
+2026-09-25,SBUX,Starbucks Corporation,45.43,Weak,turnaround,0.9804,0
+2026-09-25,OMC,Omnicom Group Inc.,45.38,Weak,growth,1.0,0
+2026-09-25,PSA,Public Storage,45.36,Weak,cyclical,1.0,0
+2026-09-25,NDAQ,"Nasdaq, Inc.",45.35,Weak,cyclical,1.0,0
+2026-09-25,PG,The Procter & Gamble Company,45.3,Weak,cyclical,1.0,0
+2026-09-25,NVO,Novo Nordisk A/S,45.22,Weak,compounder,1.0,0
+2026-09-25,NNN,"NNN REIT, Inc.",45.2,Weak,cyclical,1.0,0
+2026-09-25,BR,"Broadridge Financial Solutions, Inc.",45.17,Weak,cyclical,1.0,0
+2026-09-25,AVB,"AvalonBay Communities, Inc.",45.12,Weak,cyclical,0.875,0
+2026-09-25,BRK-B,Berkshire Hathaway Inc.,44.97,Weak,turnaround,0.9706,0
+2026-09-25,BAYRY,Bayer Aktiengesellschaft,44.97,Weak,turnaround,1.0,0
+2026-09-25,NTES,"NetEase, Inc.",44.92,Weak,cyclical,1.0,0
+2026-09-25,NCLH,Norwegian Cruise Line Holdings Ltd.,44.91,Weak,value,1.0,0
+2026-09-25,T,AT&T Inc.,44.88,Weak,cyclical,1.0,0
+2026-09-25,DIS,The Walt Disney Company,44.86,Weak,cyclical,1.0,0
+2026-09-25,BMRN,BioMarin Pharmaceutical Inc.,44.85,Weak,cyclical,1.0,0
+2026-09-25,KMI,"Kinder Morgan, Inc.",44.79,Weak,cyclical,1.0,0
+2026-09-25,AXTI,"AXT, Inc.",44.77,Weak,growth,1.0,0
+2026-09-25,RKLB,Rocket Lab Corporation,44.73,Weak,growth,1.0,0
+2026-09-25,RF,Regions Financial Corporation,44.73,Weak,cyclical,0.9706,0
+2026-09-25,PTON,"Peloton Interactive, Inc.",44.73,Weak,turnaround,0.9804,0
+2026-09-25,LIN,Linde plc,44.67,Weak,cyclical,1.0,0
+2026-09-25,CWEN,"Clearway Energy, Inc.",44.65,Weak,growth,1.0,0
+2026-09-25,UPST,"Upstart Holdings, Inc.",44.63,Weak,growth,0.9706,0
+2026-09-25,SRPT,"Sarepta Therapeutics, Inc.",44.56,Weak,cyclical,0.9307,0
+2026-09-25,BAH,Booz Allen Hamilton Holding Corporation,44.48,Weak,cyclical,1.0,0
+2026-09-25,PLD,"Prologis, Inc.",44.44,Weak,cyclical,1.0,0
+2026-09-25,AGCO,AGCO Corporation,44.4,Weak,cyclical,1.0,0
+2026-09-25,YUMC,"Yum China Holdings, Inc.",44.36,Weak,cyclical,1.0,0
+2026-09-25,AIR,AAR Corp.,44.36,Weak,growth,1.0,0
+2026-09-25,STZ,"Constellation Brands, Inc.",44.35,Weak,cyclical,1.0,0
+2026-09-25,ABCL,AbCellera Biologics Inc.,44.27,Weak,cyclical,0.9505,0
+2026-09-25,PEP,"PepsiCo, Inc.",44.26,Weak,cyclical,1.0,0
+2026-09-25,AMSC,American Superconductor Corporation,44.26,Weak,value,1.0,0
+2026-09-25,SSNC,"SS&C Technologies Holdings, Inc.",44.2,Weak,cyclical,1.0,0
+2026-09-25,XYL,Xylem Inc.,44.14,Weak,cyclical,1.0,0
+2026-09-25,CFRUY,Compagnie Financière Richemont SA,44.09,Weak,cyclical,0.7549,1
+2026-09-25,EQT,EQT Corporation,44.09,Weak,cyclical,1.0,0
+2026-09-25,RIVN,"Rivian Automotive, Inc.",43.99,Weak,growth,1.0,0
+2026-09-25,AAON,"AAON, Inc.",43.97,Weak,growth,1.0,0
+2026-09-25,MRAAY,"Murata Manufacturing Co., Ltd.",43.96,Weak,cyclical,0.88,0
+2026-09-25,AEP,"American Electric Power Company, Inc.",43.91,Weak,cyclical,1.0,0
+2026-09-25,DUOL,"Duolingo, Inc.",43.87,Weak,value,1.0,0
+2026-09-25,LYFT,"Lyft, Inc.",43.86,Weak,value,1.0,0
+2026-09-25,ATEN,"A10 Networks, Inc.",43.84,Weak,cyclical,1.0,0
+2026-09-25,COLD,"Americold Realty Trust, Inc.",43.81,Weak,cyclical,0.9712,0
+2026-09-25,O,Realty Income Corporation,43.77,Weak,turnaround,1.0,0
+2026-09-25,BA,The Boeing Company,43.74,Weak,cyclical,0.98,0
+2026-09-25,EVTC,"EVERTEC, Inc.",43.73,Weak,cyclical,1.0,0
+2026-09-25,LULU,lululemon athletica inc.,43.66,Weak,value,0.8529,0
+2026-09-25,TTD,"The Trade Desk, Inc.",43.63,Weak,value,1.0,0
+2026-09-25,PKG,Packaging Corporation of America,43.62,Weak,cyclical,1.0,0
+2026-09-25,PDD,PDD Holdings Inc.,43.57,Weak,value,1.0,0
+2026-09-25,ARCB,ArcBest Corporation,43.56,Weak,cyclical,0.93,0
+2026-09-25,AOS,A. O. Smith Corporation,43.48,Weak,cyclical,1.0,0
+2026-09-25,FCEL,"FuelCell Energy, Inc.",43.41,Weak,cyclical,0.88,0
+2026-09-25,KVYO,"Klaviyo, Inc.",43.37,Weak,growth,1.0,0
+2026-09-25,RPM,RPM International Inc.,43.36,Weak,cyclical,1.0,0
+2026-09-25,ESS,"Essex Property Trust, Inc.",43.32,Weak,cyclical,1.0,0
+2026-09-25,GNRC,Generac Holdings Inc.,43.13,Weak,cyclical,1.0,0
+2026-09-25,AON,Aon plc,43.12,Weak,cyclical,1.0,0
+2026-09-25,CVS,CVS Health Corporation,43.1,Weak,cyclical,0.9307,0
+2026-09-25,BEAM,Beam Therapeutics Inc.,43.1,Weak,value,0.9505,0
+2026-09-25,CMC,Commercial Metals Company,43.05,Weak,growth,1.0,0
+2026-09-25,CUBE,CubeSmart,42.82,Weak,cyclical,1.0,0
+2026-09-25,FIS,"Fidelity National Information Services, Inc.",42.62,Weak,value,0.93,0
+2026-09-25,EIX,Edison International,42.56,Weak,cyclical,1.0,0
+2026-09-25,SAIA,"Saia, Inc.",42.55,Weak,cyclical,1.0,0
+2026-09-25,PENN,"PENN Entertainment, Inc.",42.54,Weak,turnaround,1.0,0
+2026-09-25,EQR,Equity Residential,42.48,Weak,cyclical,0.875,0
+2026-09-25,MDT,Medtronic plc,42.45,Weak,cyclical,0.8812,0
+2026-09-25,LNT,Alliant Energy Corporation,42.45,Weak,cyclical,1.0,0
+2026-09-25,UNH,UnitedHealth Group Incorporated,42.43,Weak,turnaround,1.0,0
+2026-09-25,BKSY,BlackSky Technology Inc.,42.38,Weak,growth,1.0,0
+2026-09-25,STM,STMicroelectronics N.V.,42.37,Weak,growth,1.0,0
+2026-09-25,ZS,"Zscaler, Inc.",42.33,Weak,value,0.88,0
+2026-09-25,ZTS,Zoetis Inc.,42.19,Weak,value,1.0,0
+2026-09-25,CCL,Carnival Corporation Ltd.,42.1,Weak,cyclical,1.0,0
+2026-09-25,NSC,Norfolk Southern Corporation,42.06,Weak,cyclical,1.0,0
+2026-09-25,HUBS,"HubSpot, Inc.",42.06,Weak,turnaround,1.0,0
+2026-09-25,BALL,Ball Corporation,42.05,Weak,cyclical,1.0,0
+2026-09-25,VRSK,"Verisk Analytics, Inc.",41.96,Weak,cyclical,0.98,0
+2026-09-25,CALX,"Calix, Inc.",41.93,Weak,turnaround,0.93,0
+2026-09-25,HAL,Halliburton Company,41.87,Weak,cyclical,1.0,0
+2026-09-25,KTOS,"Kratos Defense & Security Solutions, Inc.",41.87,Weak,turnaround,1.0,0
+2026-09-25,FTV,Fortive Corporation,41.83,Weak,cyclical,1.0,0
+2026-09-25,EXR,Extra Space Storage Inc.,41.65,Weak,turnaround,1.0,0
+2026-09-25,PRGO,Perrigo Company plc,41.65,Weak,turnaround,1.0,0
+2026-09-25,GOTO.JK,PT GoTo Gojek Tokopedia Tbk,41.62,Weak,cyclical,0.93,0
+2026-09-25,F,Ford Motor Company,41.58,Weak,cyclical,0.9314,0
+2026-09-25,CORZ,"Core Scientific, Inc.",41.56,Weak,value,0.91,0
+2026-09-25,MLM,"Martin Marietta Materials, Inc.",41.55,Weak,cyclical,1.0,0
+2026-09-25,MCD,McDonald's Corporation,41.45,Weak,cyclical,0.9804,0
+2026-09-25,ARQQ,Arqit Quantum Inc.,41.44,Weak,value,0.76,1
+2026-09-25,MNDY,monday.com Ltd.,41.43,Weak,growth,1.0,0
+2026-09-25,IBM,International Business Machines Corporation,41.34,Weak,cyclical,1.0,0
+2026-09-25,SIEGY,Siemens Aktiengesellschaft,41.34,Weak,cyclical,1.0,0
+2026-09-25,CAG,"Conagra Brands, Inc.",41.3,Weak,cyclical,0.9703,0
+2026-09-25,TD,The Toronto-Dominion Bank,41.23,Weak,cyclical,0.902,0
+2026-09-25,ASAN,"Asana, Inc.",41.2,Weak,value,0.88,0
+2026-09-25,DKNG,DraftKings Inc.,41.18,Weak,value,0.9314,0
+2026-09-25,PHG,Koninklijke Philips N.V.,41.12,Weak,turnaround,1.0,0
+2026-09-25,ACM,AECOM,41.08,Weak,value,0.93,0
+2026-09-25,AWK,"American Water Works Company, Inc.",41.06,Weak,cyclical,1.0,0
+2026-09-25,VICI,VICI Properties Inc.,41.03,Weak,cyclical,1.0,0
+2026-09-25,DOW,Dow Inc.,40.99,Weak,turnaround,1.0,0
+2026-09-25,CXM,"Sprinklr, Inc.",40.98,Weak,turnaround,0.88,0
+2026-09-25,POWI,"Power Integrations, Inc.",40.94,Weak,turnaround,0.97,0
+2026-09-25,CDW,CDW Corporation,40.91,Weak,cyclical,1.0,0
+2026-09-25,SYK,Stryker Corporation,40.88,Weak,cyclical,1.0,0
+2026-09-25,TASK,"TaskUs, Inc.",40.85,Weak,cyclical,1.0,0
+2026-09-25,CERT,"Certara, Inc.",40.84,Weak,cyclical,0.9307,0
+2026-09-25,IR,Ingersoll Rand Inc.,40.77,Weak,turnaround,1.0,0
+2026-09-25,PHR,"Phreesia, Inc.",40.69,Weak,value,0.8812,0
+2026-09-25,GSK,GSK plc,40.68,Weak,cyclical,1.0,0
+2026-09-25,GWRE,"Guidewire Software, Inc.",40.63,Weak,value,0.88,0
+2026-09-25,HD,"The Home Depot, Inc.",40.59,Weak,cyclical,0.8529,0
+2026-09-25,TMUS,"T-Mobile US, Inc.",40.58,Weak,cyclical,1.0,0
+2026-09-25,ED,"Consolidated Edison, Inc.",40.49,Weak,cyclical,1.0,0
+2026-09-25,MRCY,"Mercury Systems, Inc.",40.43,Weak,value,1.0,0
+2026-09-25,INFY,Infosys Limited,40.36,Weak,cyclical,1.0,0
+2026-09-25,LEA,Lear Corporation,40.31,Weak,cyclical,1.0,0
+2026-09-25,MGM,MGM Resorts International,40.29,Weak,turnaround,1.0,0
+2026-09-25,BSY,"Bentley Systems, Incorporated",40.24,Weak,value,1.0,0
+2026-09-25,SONY,Sony Group Corporation,40.17,Weak,cyclical,1.0,0
+2026-09-25,PPL,PPL Corporation,40.16,Weak,cyclical,1.0,0
+2026-09-25,CTSH,Cognizant Technology Solutions Corporation,40.16,Weak,cyclical,1.0,0
+2026-09-25,LOW,"Lowe's Companies, Inc.",39.96,Avoid,cyclical,0.8333,0
+2026-09-25,TDOC,"Teladoc Health, Inc.",39.91,Avoid,value,1.0,0
+2026-09-25,CMCSA,Comcast Corporation,39.83,Avoid,cyclical,1.0,0
+2026-09-25,MOMO,Hello Group Inc.,39.79,Avoid,turnaround,1.0,0
+2026-09-25,ATO,Atmos Energy Corporation,39.78,Avoid,cyclical,1.0,0
+2026-09-25,LDOS,"Leidos Holdings, Inc.",39.75,Avoid,value,1.0,0
+2026-09-25,CAMT,Camtek Ltd.,39.66,Avoid,cyclical,0.93,0
+2026-09-25,ROP,"Roper Technologies, Inc.",39.6,Avoid,cyclical,1.0,0
+2026-09-25,BWXT,"BWX Technologies, Inc.",39.6,Avoid,value,1.0,0
+2026-09-25,LHX,"L3Harris Technologies, Inc.",39.58,Avoid,value,1.0,0
+2026-09-25,VALE,Vale S.A.,39.53,Avoid,cyclical,1.0,0
+2026-09-25,NCNO,"nCino, Inc.",39.5,Avoid,turnaround,0.88,0
+2026-09-25,CE,Celanese Corporation,39.46,Avoid,cyclical,0.9703,0
+2026-09-25,DRVN,Driven Brands Holdings Inc.,39.41,Avoid,cyclical,1.0,0
+2026-09-25,RXO,"RXO, Inc.",39.29,Avoid,cyclical,1.0,0
+2026-09-25,NRG,"NRG Energy, Inc.",39.27,Avoid,turnaround,1.0,0
+2026-09-25,WTRG,"Essential Utilities, Inc.",39.22,Avoid,cyclical,1.0,0
+2026-09-25,SPIR,"Spire Global, Inc.",39.2,Avoid,value,1.0,0
+2026-09-25,MAA,"Mid-America Apartment Communities, Inc.",39.13,Avoid,cyclical,1.0,0
+2026-09-25,CEG,Constellation Energy Corporation,39.07,Avoid,cyclical,1.0,0
+2026-09-25,DNZOY,DENSO Corporation,39.07,Avoid,cyclical,0.7549,1
+2026-09-25,REXR,"Rexford Industrial Realty, Inc.",39.02,Avoid,cyclical,0.9712,0
+2026-09-25,UPS,"United Parcel Service, Inc.",38.96,Avoid,cyclical,1.0,0
+2026-09-25,BSX,Boston Scientific Corporation,38.96,Avoid,value,1.0,0
+2026-09-25,TXT,Textron Inc.,38.95,Avoid,cyclical,1.0,0
+2026-09-25,DUK,Duke Energy Corporation,38.75,Avoid,cyclical,1.0,0
+2026-09-25,BEKE,KE Holdings Inc.,38.74,Avoid,turnaround,1.0,0
+2026-09-25,QUBT,Quantum Computing Inc.,38.74,Avoid,growth,0.93,0
+2026-09-25,CLSK,"CleanSpark, Inc.",38.73,Avoid,value,0.9314,0
+2026-09-25,SWKS,"Skyworks Solutions, Inc.",38.69,Avoid,cyclical,1.0,0
+2026-09-25,UUUU,Energy Fuels Inc.,38.66,Avoid,value,1.0,0
+2026-09-25,GEHC,GE HealthCare Technologies Inc.,38.64,Avoid,cyclical,1.0,0
+2026-09-25,MOH,"Molina Healthcare, Inc.",38.62,Avoid,cyclical,1.0,0
+2026-09-25,NOW,"ServiceNow, Inc.",38.61,Avoid,cyclical,1.0,0
+2026-09-25,MNDTR.IS,Mondi Tire Kutsan Kagit ve Ambalaj Sanayi A.S.,38.61,Avoid,cyclical,0.6373,1
+2026-09-25,NEE,"NextEra Energy, Inc.",38.56,Avoid,turnaround,1.0,0
+2026-09-25,LYB,LyondellBasell Industries N.V.,38.54,Avoid,turnaround,1.0,0
+2026-09-25,SO,The Southern Company,38.53,Avoid,cyclical,1.0,0
+2026-09-25,EXC,Exelon Corporation,38.52,Avoid,cyclical,1.0,0
+2026-09-25,TFX,Teleflex Incorporated,38.52,Avoid,cyclical,1.0,0
+2026-09-25,SNY,Sanofi,38.23,Avoid,cyclical,1.0,0
+2026-09-25,IREN,IREN Limited,37.93,Avoid,value,0.9314,0
+2026-09-25,ALLY,Ally Financial Inc.,37.82,Avoid,cyclical,0.9706,0
+2026-09-25,DG,Dollar General Corporation,37.74,Avoid,cyclical,0.9208,0
+2026-09-25,DY,"Dycom Industries, Inc.",37.73,Avoid,value,0.88,0
+2026-09-25,KPTI,Karyopharm Therapeutics Inc.,37.73,Avoid,value,0.9307,0
+2026-09-25,WIX,Wix.com Ltd.,37.71,Avoid,value,0.91,0
+2026-09-25,BDC,Belden Inc.,37.69,Avoid,cyclical,1.0,0
+2026-09-25,HIMS,"Hims & Hers Health, Inc.",37.67,Avoid,value,0.9307,0
+2026-09-25,GM,General Motors Company,37.65,Avoid,cyclical,1.0,0
+2026-09-25,EMN,Eastman Chemical Company,37.4,Avoid,cyclical,1.0,0
+2026-09-25,BRZE,"Braze, Inc.",37.37,Avoid,cyclical,0.88,0
+2026-09-25,MBLY,Mobileye Global Inc.,37.24,Avoid,value,0.951,0
+2026-09-25,HIMX,"Himax Technologies, Inc.",37.06,Avoid,cyclical,1.0,0
+2026-09-25,WEC,"WEC Energy Group, Inc.",36.97,Avoid,cyclical,1.0,0
+2026-09-25,LUMN,"Lumen Technologies, Inc.",36.95,Avoid,value,0.91,0
+2026-09-25,CI,The Cigna Group,36.94,Avoid,cyclical,1.0,0
+2026-09-25,SEER,SEER,36.9,Avoid,cyclical,1.0,0
+2026-09-25,SIFY,Sify Technologies Limited,36.89,Avoid,turnaround,0.95,0
+2026-09-25,MKC,"McCormick & Company, Incorporated",36.88,Avoid,cyclical,1.0,0
+2026-09-25,KMX,"CarMax, Inc.",36.78,Avoid,cyclical,1.0,0
+2026-09-25,FE,FirstEnergy Corp.,36.76,Avoid,cyclical,1.0,0
+2026-09-25,XEL,Xcel Energy Inc.,36.65,Avoid,cyclical,1.0,0
+2026-09-25,CRSP,CRISPR Therapeutics AG,36.41,Avoid,cyclical,0.8911,0
+2026-09-25,AIG,"American International Group, Inc.",36.31,Avoid,cyclical,0.9706,0
+2026-09-25,CIFR,Cipher Digital Inc.,36.31,Avoid,cyclical,0.93,0
+2026-09-25,JD,"JD.com, Inc.",36.29,Avoid,cyclical,1.0,0
+2026-09-25,FANUY,Fanuc Corporation,36.24,Avoid,cyclical,0.73,1
+2026-09-25,ACLS,"Axcelis Technologies, Inc.",36.18,Avoid,cyclical,1.0,0
+2026-09-25,BTAI,BTAI,36.17,Avoid,growth,0.93,0
+2026-09-25,CPRI,Capri Holdings Limited,36.16,Avoid,value,0.9804,0
+2026-09-25,CMS,CMS Energy Corporation,36.11,Avoid,cyclical,1.0,0
+2026-09-25,VZ,Verizon Communications Inc.,36.03,Avoid,cyclical,1.0,0
+2026-09-25,SW,Smurfit Westrock Plc,36.03,Avoid,turnaround,1.0,0
+2026-09-25,GDS,GDS Holdings Limited,36.02,Avoid,turnaround,1.0,0
+2026-09-25,PCAR,PACCAR Inc,36.01,Avoid,cyclical,1.0,0
+2026-09-25,TCEHY,Tencent Holdings Limited,35.96,Avoid,cyclical,0.95,0
+2026-09-25,PRCT,PROCEPT BioRobotics Corporation,35.95,Avoid,cyclical,1.0,0
+2026-09-25,MDLZ,"Mondelez International, Inc.",35.8,Avoid,turnaround,1.0,0
+2026-09-25,KHC,The Kraft Heinz Company,35.74,Avoid,cyclical,1.0,0
+2026-09-25,WSO,"Watsco, Inc.",35.72,Avoid,cyclical,1.0,0
+2026-09-25,HII,"Huntington Ingalls Industries, Inc.",35.67,Avoid,cyclical,1.0,0
+2026-09-25,BXP,"BXP, Inc.",35.62,Avoid,cyclical,1.0,0
+2026-09-25,WYNN,"Wynn Resorts, Limited",35.53,Avoid,turnaround,0.9804,0
+2026-09-25,GFAI,GFAI,35.51,Avoid,value,0.78,0
+2026-09-25,APLD,Applied Digital Corporation,35.38,Avoid,cyclical,0.93,0
+2026-09-25,ARCT,Arcturus Therapeutics Holdings Inc.,35.38,Avoid,value,0.8812,0
+2026-09-25,COIN,"Coinbase Global, Inc.",35.37,Avoid,value,0.9314,0
+2026-09-25,EPAM,"EPAM Systems, Inc.",35.32,Avoid,cyclical,1.0,0
+2026-09-25,TSLA,"Tesla, Inc.",35.3,Avoid,cyclical,1.0,0
+2026-09-25,KKR,KKR & Co. Inc.,35.28,Avoid,cyclical,1.0,0
+2026-09-25,RARE,Ultragenyx Pharmaceutical Inc.,35.16,Avoid,value,0.9802,0
+2026-09-25,SMNNY,Shimano Inc.,35.1,Avoid,cyclical,0.7549,1
+2026-09-25,NOK,Nokia Oyj,35.0,Avoid,cyclical,1.0,0
+2026-09-25,BBAI,BBAI,34.95,Avoid,value,1.0,0
+2026-09-25,NKE,"NIKE, Inc.",34.79,Avoid,turnaround,1.0,0
+2026-09-25,WOLF,"Wolfspeed, Inc.",34.77,Avoid,value,0.93,0
+2026-09-25,ASTS,"AST SpaceMobile, Inc.",34.75,Avoid,cyclical,0.93,0
+2026-09-25,CHPT,"ChargePoint Holdings, Inc.",34.6,Avoid,cyclical,0.8529,0
+2026-09-25,NI,NiSource Inc.,34.56,Avoid,cyclical,1.0,0
+2026-09-25,CLX,The Clorox Company,34.47,Avoid,cyclical,0.9505,0
+2026-09-25,POET,POET Technologies Inc.,34.36,Avoid,growth,0.9,0
+2026-09-25,SPOK,"Spok Holdings, Inc.",34.34,Avoid,cyclical,1.0,0
+2026-09-25,NTGR,"NETGEAR, Inc.",34.31,Avoid,value,1.0,0
+2026-09-25,RGTI,"Rigetti Computing, Inc.",34.21,Avoid,value,0.93,0
+2026-09-25,NTLA,"Intellia Therapeutics, Inc.",34.18,Avoid,value,0.8911,0
+2026-09-25,VERX,"Vertex, Inc.",34.17,Avoid,turnaround,1.0,0
+2026-09-25,CNH,CNH Industrial N.V.,34.13,Avoid,cyclical,1.0,0
+2026-09-25,CPT,Camden Property Trust,34.11,Avoid,cyclical,1.0,0
+2026-09-25,CSGP,"CoStar Group, Inc.",34.08,Avoid,turnaround,1.0,0
+2026-09-25,LVS,Las Vegas Sands Corp.,33.86,Avoid,value,0.9804,0
+2026-09-25,OPAD,Offerpad Solutions Inc.,33.84,Avoid,value,1.0,0
+2026-09-25,NOC,Northrop Grumman Corporation,33.64,Avoid,cyclical,1.0,0
+2026-09-25,GPC,Genuine Parts Company,33.59,Avoid,cyclical,1.0,0
+2026-09-25,MSTR,Strategy Inc,33.52,Avoid,value,0.86,0
+2026-09-25,TRMB,Trimble Inc.,33.43,Avoid,cyclical,0.93,0
+2026-09-25,SOFI,"SoFi Technologies, Inc.",33.29,Avoid,growth,0.9706,0
+2026-09-25,FWRD,Forward Air Corporation,33.2,Avoid,value,0.93,0
+2026-09-25,ACHR,Archer Aviation Inc.,32.84,Avoid,value,0.9,0
+2026-09-25,AEVA,"Aeva Technologies, Inc.",32.81,Avoid,value,0.91,0
+2026-09-25,PRIM,Primoris Services Corporation,32.74,Avoid,value,0.93,0
+2026-09-25,PCG,PG&E Corporation,32.67,Avoid,cyclical,1.0,0
+2026-09-25,FUJIY,FUJIFILM Holdings Corporation,32.51,Avoid,cyclical,0.78,0
+2026-09-25,XPEV,XPeng Inc.,32.43,Avoid,value,0.8824,0
+2026-09-25,ENVX,Enovix Corporation,32.36,Avoid,value,0.95,0
+2026-09-25,QFIN,"Qfin Holdings, Inc.",32.23,Avoid,cyclical,0.9706,0
+2026-09-25,GLOB,Globant S.A.,32.2,Avoid,turnaround,1.0,0
+2026-09-25,VC,Visteon Corporation,31.98,Avoid,cyclical,1.0,0
+2026-09-25,CCOI,"Cogent Communications Holdings, Inc.",31.96,Avoid,turnaround,1.0,0
+2026-09-25,SOUN,"SoundHound AI, Inc.",31.94,Avoid,growth,1.0,0
+2026-09-25,ABT,Abbott Laboratories,31.81,Avoid,cyclical,1.0,0
+2026-09-25,RBLX,Roblox Corporation,31.61,Avoid,growth,1.0,0
+2026-09-25,OPCH,"Option Care Health, Inc.",31.58,Avoid,cyclical,1.0,0
+2026-09-25,POOL,Pool Corporation,31.5,Avoid,cyclical,1.0,0
+2026-09-25,IP,International Paper Company,31.38,Avoid,cyclical,0.9314,0
+2026-09-25,CARR,Carrier Global Corporation,31.29,Avoid,cyclical,1.0,0
+2026-09-25,ORCL,Oracle Corporation,31.21,Avoid,value,0.88,0
+2026-09-25,ALKT,"Alkami Technology, Inc.",31.03,Avoid,cyclical,1.0,0
+2026-09-25,EU,EU,30.98,Avoid,cyclical,0.93,0
+2026-09-25,VNET,"VNET Group, Inc.",30.24,Avoid,value,0.93,0
+2026-09-25,PNR,Pentair plc,30.15,Avoid,cyclical,1.0,0
+2026-09-25,LCID,"Lucid Group, Inc.",30.06,Avoid,cyclical,0.951,0
+2026-09-25,CHTR,"Charter Communications, Inc.",30.02,Avoid,cyclical,1.0,0
+2026-09-25,2936.T,BASE FOOD Inc.,29.99,Avoid,cyclical,0.7921,1
+2026-09-25,GIS,"General Mills, Inc.",29.95,Avoid,cyclical,0.9703,0
+2026-09-25,URG,URG,29.6,Avoid,growth,1.0,0
+2026-09-25,SRE,Sempra,29.15,Avoid,turnaround,1.0,0
+2026-09-25,ENPH,"Enphase Energy, Inc.",28.37,Avoid,cyclical,1.0,0
+2026-09-25,SEDG,"SolarEdge Technologies, Inc.",28.35,Avoid,cyclical,1.0,0
+2026-09-25,CLF,Cleveland-Cliffs Inc.,28.14,Avoid,cyclical,1.0,0
+2026-09-25,AI,"C3.ai, Inc.",28.14,Avoid,cyclical,0.88,0
+2026-09-25,GXO,"GXO Logistics, Inc.",28.05,Avoid,cyclical,1.0,0
+2026-09-25,IONQ,"IonQ, Inc.",27.99,Avoid,cyclical,0.93,0
+2026-09-25,LVMHF,"LVMH Moët Hennessy - Louis Vuitton, Société Européenne",27.91,Avoid,cyclical,0.7549,1
+2026-09-25,HRL,Hormel Foods Corporation,27.9,Avoid,cyclical,0.9208,0
+2026-09-25,BABA,Alibaba Group Holding Limited,27.34,Avoid,cyclical,1.0,0
+2026-09-25,FOUR,"Shift4 Payments, Inc.",27.31,Avoid,cyclical,1.0,0
+2026-09-25,LEU,Centrus Energy Corp.,27.29,Avoid,cyclical,1.0,0
+2026-09-25,HUBG,"Hub Group, Inc.",27.03,Avoid,cyclical,0.88,0
+2026-09-25,RPD,"Rapid7, Inc.",26.97,Avoid,cyclical,1.0,0
+2026-09-25,RH,RH,26.69,Avoid,cyclical,0.8333,0
+2026-09-25,RXRX,RXRX,26.61,Avoid,cyclical,1.0,0
+2026-09-25,OPEN,Opendoor Technologies Inc.,26.56,Avoid,value,0.9712,0
+2026-09-25,NIO,NIO Inc.,26.42,Avoid,growth,0.951,0
+2026-09-25,BIDU,"Baidu, Inc.",26.29,Avoid,value,1.0,0
+2026-09-25,FISV,"Fiserv, Inc.",26.2,Avoid,value,0.92,0
+2026-09-25,IONS,"Ionis Pharmaceuticals, Inc.",26.17,Avoid,cyclical,0.9307,0
+2026-09-25,OKLO,Oklo Inc.,25.64,Avoid,cyclical,0.8846,0
+2026-09-25,GOOS,Canada Goose Holdings Inc.,25.64,Avoid,cyclical,1.0,0
+2026-09-25,UEC,Uranium Energy Corp.,25.5,Avoid,cyclical,0.7549,0
+2026-09-25,PLUG,PLUG,24.81,Avoid,cyclical,1.0,0
+2026-09-25,CPB,The Campbell's Company,24.46,Avoid,cyclical,0.9703,0
+2026-09-25,MOS,The Mosaic Company,24.31,Avoid,cyclical,0.9703,0
+2026-09-25,JOBY,"Joby Aviation, Inc.",24.08,Avoid,cyclical,0.9,0
+2026-09-25,MP,MP Materials Corp.,24.05,Avoid,growth,1.0,0
+2026-09-25,MX,Magnachip Semiconductor Corporation,23.39,Avoid,cyclical,0.93,0
+2026-09-25,APTV,Aptiv PLC,23.28,Avoid,cyclical,1.0,0
+2026-09-25,NNE,NANO Nuclear Energy Inc.,22.65,Avoid,cyclical,0.9,0
+2026-09-25,PLTK,PLTK,22.53,Avoid,cyclical,0.98,0
+2026-09-25,NTDOY,"Nintendo Co., Ltd.",22.4,Avoid,cyclical,0.73,1
+2026-09-25,LI,Li Auto Inc.,17.78,Avoid,cyclical,0.9314,0

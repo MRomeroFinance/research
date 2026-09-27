@@ -1,0 +1,5 @@
+# Normalise line endings. The CSVs come out of a Windows run with CRLF and the
+# markdown with LF; without this, anyone cloning on Linux gets noise in the diff.
+* text=auto eol=lf
+*.pdf binary
+*.png binary

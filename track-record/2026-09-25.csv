@@ -1,0 +1,11 @@
+date,rank,ticker,name,close,currency,investment_score,tier,company_type,factor_coverage,low_coverage
+2026-09-25,1,MU,"Micron Technology, Inc.",1082.280029296875,USD,81.5,Strong,compounder,1.0,0
+2026-09-25,2,FTNT,"Fortinet, Inc.",173.4600067138672,USD,81.29,Strong,compounder,1.0,0
+2026-09-25,3,FIX,"Comfort Systems USA, Inc.",1658.9100341796875,USD,80.58,Strong,compounder,1.0,0
+2026-09-25,4,STX,Seagate Technology Holdings plc,916.8300170898438,USD,80.36,Strong,compounder,0.98,0
+2026-09-25,5,ANET,"Arista Networks, Inc.",206.5500030517578,USD,79.3,Strong,compounder,1.0,0
+2026-09-25,6,NVDA,NVIDIA Corporation,225.07000732421875,USD,77.26,Strong,compounder,0.88,0
+2026-09-25,7,AYA.TO,Aya Gold & Silver Inc.,40.34000015258789,CAD,77.01,Strong,compounder,1.0,0
+2026-09-25,8,TSM,Taiwan Semiconductor Manufacturing Company Limited,450.6099853515625,USD,76.52,Strong,compounder,1.0,0
+2026-09-25,9,MGTX,MeiraGTx Holdings plc,10.90999984741211,USD,76.09,Strong,compounder,1.0,0
+2026-09-25,10,WDC,Western Digital Corporation,456.80999755859375,USD,75.97,Strong,compounder,1.0,0

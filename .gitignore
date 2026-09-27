@@ -1,0 +1,48 @@
+# Databases. The plain *.db pattern misses the auxiliary files and the backups,
+# so both shapes are here.
+*.db
+*.db-*
+*.db.*
+*.sqlite
+*.sqlite3
+data_store/
+
+# Credentials, under the names people actually use for them.
+.env
+.env.*
+*.key
+*.pem
+*token*
+*api_key*
+*apikey*
+credentials*
+secrets*
+.netrc
+
+# Spanish drafts. These live in the vault, not in the public repo. Both
+# spellings, because the accented one is how the word is actually written.
+*-es.md
+*-ES.md
+*analisis*.md
+*análisis*.md
+*Análisis*.md
+notes/*-es.md
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Generated output
+*.xlsx
+*.xlsm
+output/
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
